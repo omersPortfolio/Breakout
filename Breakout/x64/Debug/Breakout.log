@@ -1,0 +1,24 @@
+﻿  GamePCH.cpp
+  AABB.cpp
+  AudioManager.cpp
+  Ball.cpp
+  Brick.cpp
+  Bullet.cpp
+  Button.cpp
+  Game.cpp
+  GameManager.cpp
+  GameObject.cpp
+  Easing.cpp
+  Level.cpp
+D:\Breakout\Source\Level.cpp(253,39): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  LineSegment.cpp
+  main.cpp
+  Math.cpp
+  Paddle.cpp
+  Powerup.cpp
+  Random.cpp
+  TextureManager.cpp
+  Tween.cpp
+  vec2.cpp
+  Generating Code...
+  Breakout.vcxproj -> D:\Breakout\x64\Debug\Breakout.exe

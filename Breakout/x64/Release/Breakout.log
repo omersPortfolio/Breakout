@@ -1,0 +1,26 @@
+﻿  GamePCH.cpp
+  AABB.cpp
+  AudioManager.cpp
+  Ball.cpp
+  Brick.cpp
+  Bullet.cpp
+  Button.cpp
+  Game.cpp
+  GameManager.cpp
+  GameObject.cpp
+  Easing.cpp
+  Level.cpp
+  LineSegment.cpp
+  main.cpp
+  Math.cpp
+  Paddle.cpp
+  Powerup.cpp
+  Random.cpp
+  TextureManager.cpp
+  Tween.cpp
+  vec2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 925 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Breakout.vcxproj -> D:\Breakout\x64\Release\Breakout.exe
